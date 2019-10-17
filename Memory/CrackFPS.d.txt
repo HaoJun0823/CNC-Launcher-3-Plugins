@@ -1,0 +1,17 @@
+;Name:Crack Fps v0.01
+;Description:Maximum Fps increased to 60.
+;Author:Randerion(HaoJun0823)
+;Website:http://www.haojun0823.xyz/
+;If you have any suggestions, please send a letter to mod@haojun0823.xyz.
+;Known issues:
+;Building construction animation and prograssbar and time is not normal.
+;Strange light.
+;Unit caused by water...?
+;This is also one of the most basic tutorials.
+;Your data should be odd lengths separated by commas.
+;Second, the rest are, address, data,only 16.
+;If the first one is 0, then md5 is not checked.
+;If you want to use a pointer, please + offset after the address.
+;like 00000002+23d+a812
+625873A343CC9FE72B159CEA64F3C774,00CAF9D0,0f000000,00CAF9D4,3C000000
+73afb843ba59331517715d66b35c4e8c,00CAF9D0,0f000000,00CAF9D4,3C000000
