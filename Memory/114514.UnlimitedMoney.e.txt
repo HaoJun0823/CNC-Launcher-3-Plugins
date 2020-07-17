@@ -1,5 +1,5 @@
 ;Name:UnlimitedMoney
-;Author:By Randerion(HaoJun0823)
+;Author:By HaoJun0823
 ;Website:http://www.haojun0823.xyz/
 ;Description:Set Money = 114514 every 10 second.T10 = loop timer = 10;
 T10
